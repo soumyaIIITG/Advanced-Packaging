@@ -1,0 +1,1 @@
+This repo contains the summary of the things that I learnt in the advanced packaging course. It basically works as a place where I document my understanding. I will also upload any other resources that I find helpful.
